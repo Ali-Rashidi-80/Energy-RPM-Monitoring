@@ -1,0 +1,14 @@
+{
+  "name": "pt",
+  "author": "Ali Rashidi",
+  "pins": [
+    "IN(220v)",
+    "",
+    "GND",
+    "-",
+    "",
+    "+"
+
+  ],
+  "controls": []
+}

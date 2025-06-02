@@ -1,0 +1,13 @@
+{
+  "name": "ct",
+  "author": "Ali Rashidi",
+  "pins": [
+    "",
+    "",
+    "",
+    "GND",
+    "",
+    "OUT"
+  ],
+  "controls": []
+}
